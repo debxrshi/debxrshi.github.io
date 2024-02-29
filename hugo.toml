@@ -40,6 +40,10 @@ paginate     = 10
   name = "twitter"
   url = "https://twitter.com/di77iGeNz"
 
+[[params.social]]
+  name = "discord"
+  url = "killedbysigsegv"
+
 [taxonomies]
     category = "blog"
     tag      = "tags"
