@@ -17,7 +17,7 @@ paginate     = 10
   disableReadOtherPosts = false
 
   # Enable sharing buttons, if you like
-  enableSharingButtons = true
+  enableSharingButtons = false
   
   # Show a global language switcher in the navigation bar
   enableGlobalLanguageMenu = true
@@ -39,8 +39,8 @@ paginate     = 10
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
 
-  [languages.en.params]
-    subtitle  = "A simple theme for Hugo"
+#   [languages.en.params]
+#     subtitle  = "A simple theme for Hugo"
 
     [languages.en.params.logo]
       logoText = "ddx@root#:"
