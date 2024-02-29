@@ -51,7 +51,7 @@ paginate     = 10
 
 [languages]
   [languages.en]
-    title = "Hi, anon"
+    title = "1337"
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
@@ -77,7 +77,7 @@ paginate     = 10
   [[menu.main]]
     identifier = "tags"
     name       = "tags"
-    url        = "/posts"
+    url        = "/tags"
   
   [[menu.main]]
     identifier = "blog"
