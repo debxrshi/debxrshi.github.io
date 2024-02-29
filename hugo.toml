@@ -21,8 +21,8 @@ paginate     = 10
   enableSharingButtons = false
   
   # Show a global language switcher in the navigation bar
-  enableGlobalLanguageMenu = true
-
+  enableGlobalLanguageMenu = false
+  enableThemeToggle = true
   # Metadata mostly used in document's head
   description = "A place for programming and hacking."
   keywords = "homepage, blog"
@@ -53,6 +53,9 @@ paginate     = 10
 [author]
   name = "debxrshi"
 
+
+languageCode = 'en-us'
+
 [languages]
   [languages.en]
     title = "1337"
@@ -70,7 +73,10 @@ paginate     = 10
     #
     # path = "/img/your-example-logo.svg"
     # alt = "Your example logo alt text"
-
+enableRobotsTXT = false
+enableGitInfo   = false
+enableEmoji     = true
+canonifyURLs = true
   # And you can even create generic menu
 
  [[menu.main]]
