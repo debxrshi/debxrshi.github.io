@@ -16,6 +16,7 @@ paginate     = 10
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
 
+
   # Enable sharing buttons, if you like
   enableSharingButtons = false
   
@@ -27,10 +28,26 @@ paginate     = 10
   keywords = "homepage, blog"
   images = [""]
 
+[[params.social]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/debxrshi/"
+
+[[params.social]]
+  name = "github"
+  url = "https://github.com/debxrshi"
+
+[[params.social]]
+  name = "twitter"
+  url = "https://twitter.com/di77iGeNz"
+
 [taxonomies]
     category = "blog"
     tag      = "tags"
     series   = "series"
+
+
+[author]
+  name = "debxrshi"
 
 [languages]
   [languages.en]
@@ -43,7 +60,7 @@ paginate     = 10
 #     subtitle  = "A simple theme for Hugo"
 
     [languages.en.params.logo]
-      logoText = "ddx@root#:"
+      logoText = "ddx@pwn#:"
       logoHomeLink = "/"
     # or
     #
@@ -51,7 +68,20 @@ paginate     = 10
     # alt = "Your example logo alt text"
 
   # And you can even create generic menu
+
+ [[menu.main]]
+    identifier = "whoami"
+    name       = "whoami"
+    url        = "/whoami" 
+
+  [[menu.main]]
+    identifier = "tags"
+    name       = "tags"
+    url        = "/posts"
+  
   [[menu.main]]
     identifier = "blog"
-    name       = "Blog"
+    name       = "blog"
     url        = "/posts"
+
+ 

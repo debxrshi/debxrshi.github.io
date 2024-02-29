@@ -5,7 +5,9 @@ draft: false
 toc: false
 images:
 tags:
-  - reverse-engineering, ghidra, linux
+  - reverse-engineering
+  - ghidra 
+  - linux
 ---
 
 
