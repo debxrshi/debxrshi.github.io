@@ -1,6 +1,6 @@
 ---
 title: "Setting up Ghidra on Linux"
-date: 2023-11-2T14:16:56+05:30
+date: 2023-11-2 T14:16:56+05:30
 draft: false
 toc: false
 images:
