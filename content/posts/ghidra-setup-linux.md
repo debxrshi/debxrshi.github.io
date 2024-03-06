@@ -3,10 +3,10 @@ title: "Setting up Ghidra on Linux"
 date: 2023-12-15T14:16:56+05:30
 
 draft: false
-toc: false
+toc: true 
 images:
 tags:
-  - reverse-engineering
+  - reverse engineering
   - ghidra 
   - linux
 ---
