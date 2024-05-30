@@ -9,9 +9,7 @@ tags:
   - intro 
 ---
 
-Security researcher. Learning the boring stuff today to ~~build~~ break interesting stuff tomorrow. Think evil, do good.
+Think evil, do good.
 
 Interested in:
-- Browser exploitation
-- Pwn/reversing
-- Containers
+- Whatever I blog about
