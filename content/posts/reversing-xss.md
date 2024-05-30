@@ -1,5 +1,5 @@
 ---
-title: "Reversing_xss"
+title: "Reversing XSS"
 date: 2024-05-31T00:51:30+05:30
 draft: false
 tags:
